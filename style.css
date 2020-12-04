@@ -114,5 +114,6 @@ body {
   background-size: 100%; /* Современные браузеры */
   background-repeat: no-repeat;
   position: realtive;
+  margin: auto auto auto;
   font-family: Arial, sans-serif;
 }
