@@ -62,16 +62,6 @@
   background: repeating-linear-gradient(90deg, #F4EDD6, #F4EDD6 19px, #f4dc9c 19px, #f4dc9c 20px);
 }
 
-.ps p{
-  font-family: 'Great Vibes', cursive;
-  position: fixed;
-  width: 25%;
-  left: 1%;
-  bottom: 3px;
-  color: #BA4732;
-  text-shadow: 0.5px 0.5px 0 white;
-}
-
 #snowflakes{
   position: fixed;
   width: 100%;
@@ -79,7 +69,7 @@
   left: 0;
   top: 0;
   background-image: url(images/snowflake2.png);
-  background-size: 10 10;
+  background-size: 20 20;
   -webkit-animation: snow 20s linear infinite;
   -moz-animation: snow 20s linear infinite;
   -ms-animation: snow 20s linear infinite;
